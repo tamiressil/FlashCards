@@ -1,6 +1,6 @@
 # FlashCards
 
-- FlashCards desenvolvidos para estudo, onde o estudante pode criar um card e colocar uma pergunta e resposta nele, assim podendo estudar com eles posteriormente.
+- FlashCards desenvolvidos para estudo, onde o estudante pode criar um card e colocar uma pergunta e resposta, assim podendo estudar com eles posteriormente.
 - Projeto desenvolvido para a aprendizagem de JavaScript.
 - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
